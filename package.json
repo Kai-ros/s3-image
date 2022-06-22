@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Kai-ros/s3-image#readme",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "aws-sdk": "^2.529.0",
     "gm": "^1.23.1",
     "util": "^0.12.1"
